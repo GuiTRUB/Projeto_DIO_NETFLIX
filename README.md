@@ -1,3 +1,4 @@
 # Projeto_DIO_NETFLIX
-### descrição
-##### Clone da tela inicial do site NETFLIX. Trabalho criando durante bootcamp HTML+CSS3+GIT_GITHUB+Javascript na Digital Innovation One.
+### Descrição
+##### Clone da tela inicial do site NETFLIX.
+##### Trabalho realizado durante bootcamp HTML+CSS3+GIT_GITHUB+Javascript na Digital Innovation One em agosto de 2021.
